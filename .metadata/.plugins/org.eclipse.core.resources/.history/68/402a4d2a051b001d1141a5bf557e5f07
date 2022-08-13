@@ -9,9 +9,6 @@ public class Jenkins {
 		
 		
 		System.out.println("hello");
-		
-		System.out.println("test");
-		
 	}
 
 }
