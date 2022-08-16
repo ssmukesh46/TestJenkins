@@ -444,3 +444,12 @@
 2022-08-13 20:19:14,502 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/main/resources
 2022-08-13 20:19:14,503 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-13 20:19:14,503 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/test/resources
+2022-08-13 21:52:39,593 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-13 21:52:39,594 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/main/resources
+2022-08-13 21:52:39,598 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-13 21:52:39,598 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/test/resources
+2022-08-16 11:56:23,577 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-16 12:00:33,530 [Worker-4: Launching Jenkins] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 12:00:33,531 [Worker-4: Launching Jenkins] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/main/resources
+2022-08-16 12:00:33,533 [Worker-4: Launching Jenkins] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 12:00:33,533 [Worker-4: Launching Jenkins] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/test/resources
