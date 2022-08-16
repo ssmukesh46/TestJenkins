@@ -1,3 +1,6 @@
-GitRepositoriesView.GitDirectories=/home/mukesh/eclipse-workspace/JenkinsTest/.git\:
-GitRepositoriesView.GitDirectories.relative=JenkinsTest/.git\:
+GitRepositoriesView.GitDirectories=/home/mukesh/eclipse-workspace/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:
+RepositorySearchDialogDeepSearch=false
+RepositorySearchDialogSearchPath=/home/mukesh/eclipse-workspace/.git
+RepositorySearchDialogSkipHidden=true
 eclipse.preferences.version=1

@@ -15,7 +15,6 @@ public class Jenkins {
 		
 		System.out.println("jenkins test");
 		
-		
 		int x = 1;
 		int y = 2;
 		int sum = x + y ;

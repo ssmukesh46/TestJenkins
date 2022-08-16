@@ -453,3 +453,11 @@
 2022-08-16 12:00:33,531 [Worker-4: Launching Jenkins] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/main/resources
 2022-08-16 12:00:33,533 [Worker-4: Launching Jenkins] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-16 12:00:33,533 [Worker-4: Launching Jenkins] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/test/resources
+2022-08-16 12:09:33,270 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 12:09:33,270 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/main/resources
+2022-08-16 12:09:33,272 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 12:09:33,272 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/test/resources
+2022-08-16 12:13:57,667 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 12:13:57,668 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/main/resources
+2022-08-16 12:13:57,670 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 12:13:57,670 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mukesh/eclipse-workspace/TestJenkins/src/test/resources
