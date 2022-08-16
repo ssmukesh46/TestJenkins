@@ -6,7 +6,12 @@ public class Jenkins {
 		
 		// TODO Auto-generated method stub
 
-
+		
+		
+		
+		
+		
+		
 		
 		System.out.println("jenkins test");
 		
@@ -15,10 +20,6 @@ public class Jenkins {
 		int y = 2;
 		int sum = x + y ;
 		System.out.println(""+sum);
-		System.out.println(""+sum);
-		
-		
-		
 		
 		
 	}
