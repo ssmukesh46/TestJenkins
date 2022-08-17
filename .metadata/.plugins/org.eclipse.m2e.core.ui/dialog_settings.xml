@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/mukesh/eclipse-workspace/TestJenkins/src/test/java/com/testjenkins/TestJenkins/Jenkins.java"/>
 			<item value="/home/mukesh/eclipse-workspace/JenkinsTest"/>
 			<item value="/home/mukesh/eclipse-workspace/TEST/src/testclass.java"/>
 		</list>
@@ -27,13 +28,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.testjenkins.TestJenkins"/>
 		</list>
 		<list key="groupId">
-			<item value="com.testjenkins"/>
 		</list>
 		<list key="artifactId">
-			<item value="TestJenkins"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -65,5 +63,9 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
